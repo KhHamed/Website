@@ -1,0 +1,31 @@
+body {
+background-color: rgb(255, 153, 0);
+}
+ ol {
+    border: cornflowerblue;
+    align-items: Left;
+    size: 30px;
+
+}
+p {
+    color: black;
+    background-color: gray;
+}
+ul {
+    text-align: center;
+    color: honeydew;
+    background-color: indigo;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: yellow;
+    background-color: teal;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    color: red;
+    background-color: blue;
+
+}
